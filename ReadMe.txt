@@ -1,3 +1,5 @@
+This Code helps to draw, modify graphs and find their Independent set, vertex cover , maxclique
+
 Run MainUI.py
 
 Keyboard Commands:
